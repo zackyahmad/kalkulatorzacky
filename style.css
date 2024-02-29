@@ -12,8 +12,8 @@ body{
   background: #682c2c
 }
 .calculator{
-  width: 300px;
-  height: 400px;
+  max-width: 300px;
+  height: auto;
   background: #a54a4a;
   padding: 40px 30px;
   border-radius: 20px;
